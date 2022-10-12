@@ -1,0 +1,7 @@
+{
+    "id": "helm",
+    "version": "1.0.0",
+    "name": "helm",
+    "description": "Installs the helm cli",
+    "documentationURL": "https://github.com/fromz/devcontainer-helm/blob/master/README.md"
+}
